@@ -1,0 +1,53 @@
+.black{
+  background-color: black;
+  color: white;
+  height: 60px;
+  padding: 15px;
+}
+
+.logo{
+  background-color: #E5E5E5;
+  text-align: center;
+  padding: 0px;
+  color: #ABABAB;
+}
+
+.imagen {
+  background-color: #E5E5E5;
+  height: 200px;
+  margin-top: 40px;
+}
+
+.textoimagen{
+font-size: 50px;
+padding-top: 60px;
+color: #ABABAB;
+text-align: center;
+}
+
+.textocentrado{
+  text-align: center;
+  margin-top: 20px;
+  background-color: #E5E5E5;
+  font-size: 12px;
+  padding: 5px;
+}
+
+.letra {
+  margin-top: 40px;
+  height: 200px;
+}
+
+.parrafopeque{
+  font-size: 10px;
+}
+
+.margin{
+  padding-top: 10px;
+}
+
+.footer{
+margin-top: 50px;
+font-size: 10px;
+color: #ABABAB;
+}
